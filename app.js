@@ -28,7 +28,7 @@ class Persona {
 
 	algunaVaina() {
 		alert(
-			`Hola, me llamo ${this.nombre}, y estoy que me voy a cali, pero el señor, ${this.apellido} me hizo esta chimba de juego. Él es muy encantador y se que cuando nos veamos él y yo cogeremos ${this.edad}  Y aparte me muero por verlan baile sensualmente para mi...`
+			`Hola, me llamo ${this.nombre}, y estoy que me voy a cali, pero el señor, ${this.apellido} me hizo esta chimba de juego. Él es muy encantador y se que cuando nos veamos él y yo cogeremos ${this.edad} veces. Y aparte yo le daré un baile sensual...`
 		);
 	}
 }

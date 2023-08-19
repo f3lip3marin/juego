@@ -1,6 +1,7 @@
 
+
 alert(
-	'Hola hola señorita Dayana, yo le dije hace ratico que era programador, y se me ocurrio la brillante idea de hacerle este mini juego, espero le guste'
+	'Hola hola señorita, No, mejor dicho. COSITA. Le dije que era programnador, y se me ocurrio idea de hacerle este mini juego, espero le guste, y cambie su opinion para hoy. Esperemos.'
 );
 
 class Persona {
@@ -27,7 +28,7 @@ class Persona {
 
 	algunaVaina() {
 		alert(
-			`Hola, me llamo ${this.nombre}, y estoy un poquito aburrida, asi que ${this.apellido} me hizo esta chimbada de juego. Él es muy encantador y se que cuando nos veamos el domingo él y yo nos daremos ${this.edad} besos, y los ultimos 3 seran intensos JAJAJJAJAJJAJJA.`
+			`Hola, me llamo ${this.nombre}, y estoy que me voy a cali, pero el señor, ${this.apellido} me hizo esta chimba de juego. Él es muy encantador y se que cuando nos veamos él y yo cogeremos ${this.edad}  Y aparte me muero por verlan baile sensualmente para mi...`
 		);
 	}
 }
@@ -41,7 +42,7 @@ const personaNueva = new Persona(
 
 personaNueva.registro();
 
-alert('Ups, hubo un error, su belleza hizo que se callera la página, que pena molestarla. Pero en parte la culpa es suya debería estar en un museo, no por ahí colapsando páginas! cosaaaaa hermosaaaaa, le pedire que ingrese otra vez los datos...');
+alert('Ups, hubo un error, su belleza hizo que se callera la página, que pena molestarla. Pero en parte la culpa es suya debería estar en un museo, no por ahí colapsando páginas! cosaaaaa preciosa le pedire que ingrese otra vez los datos...');
 
 personaNueva['nombre'] = prompt('Ingrese su nombre otra vez..: ');
 personaNueva['edad'] = prompt('Ingrese su edad :');
@@ -49,3 +50,4 @@ personaNueva.algunaVaina();
 
 alert("¿Que tal le pareció?");
 alert("Si le saque una sonrisa???")
+alert("Espero verla hoy 😏")

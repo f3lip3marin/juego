@@ -1,7 +1,7 @@
 
 
 alert(
-	'Hola hola señorita, No, mejor dicho. COSITA. Le dije que era programnador, y se me ocurrio idea de hacerle este mini juego, espero le guste, y cambie su opinion para hoy. Esperemos.'
+	'Hola hola señorita, No, mejor dicho. COSITA. Le dije que era programador, y se me ocurrio la idea de hacerle este mini juego, espero le guste, y cambie su opinion para hoy. Esperemos.'
 );
 
 class Persona {
